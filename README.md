@@ -11,8 +11,8 @@ This repo is for Special Lecture (Mechanical I) and Special Lecture (Mechanical 
 6. Actor-Critic Approach and Policy Gradient✅
 7. Supervised Artificial Neural Networks✅
 8. Unsupervised Artificial Neural Networks✅
-9. Workflow Application in Deep Learning ✅
-10. Object Detection
+9. Workflow Application in Deep Learning✅
+10. Object Detection✅
 11. Image Classification
 12. Transfer Learning
 13. Pose Estimation
