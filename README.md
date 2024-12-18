@@ -13,7 +13,7 @@ This repo is for Special Lecture (Mechanical I) and Special Lecture (Mechanical 
 8. Unsupervised Artificial Neural Networks✅
 9. Workflow Application in Deep Learning✅
 10. Object Detection✅
-11. Image Classification
+11. Image and Lidar Data (nuscenes) Classification✅
 12. Transfer Learning
 13. Pose Estimation
 14. Case Studies and its Walkthrough
